@@ -1,6 +1,6 @@
 var fs = require ('fs');
 
-var inputfile = "index.html":;
+var inputfile = "index.html";
 
 var express = require('express');
 
